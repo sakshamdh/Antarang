@@ -26,6 +26,6 @@ To get started with Antarang:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/antarang.git
+   git clone https://github.com/sakshamdh/Antarang.git
    cd antarang
 ```
